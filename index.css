@@ -1,5 +1,6 @@
 body {
     background-image: url('https://images.unsplash.com/photo-1544033527-b192daee1f5b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGd5bSUyMGVxdWlwbWVudHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=900&q=60');
+    background-size: cover;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
     text-align: center;
